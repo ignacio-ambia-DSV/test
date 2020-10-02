@@ -1,0 +1,93 @@
+{
+    "country_code_requester": "PE",
+    "id_user_access_requester": "980",
+    "givenname_requester": "Burkhard Simon",
+    "templateUAF": "https://dsvcorp-my.sharepoint.com/:w:/r/personal/burkhard_simon_pe_dsv_com/_layouts/15/Doc.aspx?sourcedoc=%7BED87C74D-A2ED-40B0-94D5-B68280CB5896%7D&file=Business%20Change%20Consultant%20UAF%20Level%203%20-%20LIM.docm&action=default&mobileredirect=true",
+    "personal_information": {
+        "classification": {
+            "classification_name": "External",
+            "classification_id": "2"
+        },
+        "employee_information": {
+            "employee_id": "hola mundo",
+            "employee_type": {
+                "employee_type_name": "White Collar",
+                "id_employee_type": "1"
+            },
+            "first_name": "Jose",
+            "last_name": "ttrad",
+            "email": "EXT..@pe.dsv.com",
+            "account_expires": "2020-10-22",
+            "dsv_mail_box": {
+                "required": false,
+                "email": "EXT..@pe.dsv.com"
+            }
+        },
+        "user_location": {
+            "branch_id": "29",
+            "branch_name": "LIM - Lima",
+            "location_code": "PELIM002",
+            "city": "Lima",
+            "street": "Calle Amador Marino Reyna 281",
+            "state_province": "",
+            "postal_zipcode": "15046"
+        },
+        "employed_by": {
+            "country": {
+                "country_name": "PE - Peru",
+                "country_id": "8"
+            },
+            "dsv_company": {
+                "dsv_company_name": "DSV Air & Sea S.A.",
+                "id_dsv_company": "20",
+                "company_code": "I965"
+            },
+            "division": {
+                "division_name": "AIR & SEA",
+                "division_id": "1"
+            },
+            "external_company": "Xcompany"
+        },
+        "job_information": {
+            "department": {
+                "department_name": "BCM - BCM",
+                "department_id": "540"
+            },
+            "cost_center_number": "",
+            "job_title": {
+                "job_title_name": "Business Change Consultant, BCM",
+                "job_title_id": "1",
+                "security_level": "3"
+            },
+            "manager_email_address": {
+                "country": {
+                    "country_name": "PE - Peru",
+                    "country_code": "PE"
+                },
+                "manager_email": "alberto.villafuerte@pe.dsv.com"
+            }
+        },
+        "comunication_data": {
+            "phone_number": "",
+            "mobile": ""
+        }
+    },
+    "software_information": [{
+        "name": "on",
+        "val": "NO"
+    }, {
+        "name": "on",
+        "val": "NO"
+    }],
+    "cw_super_user": false,
+    "account_sales": false,
+    "assets_information": {
+        "has_mobile": "NO",
+        "has_telephone": "YES",
+        "has_laptop": "NO"
+    },
+    "Additional_information": {
+        "start_date": null,
+        "comments": "hola mundo!"
+    }
+}
