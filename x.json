@@ -73,18 +73,24 @@
         }
     },
     "software_information": [{
-        "name": "on",
+        "name": "Cargowise One",
+        "id_software": "1",
+        "val": "YES"
+    }, {
+        "name": "Dynamics 365",
+        "id_software": "2",
         "val": "NO"
     }, {
-        "name": "on",
+        "name": "SAP",
+        "id_software": "3",
         "val": "NO"
     }],
     "cw_super_user": false,
     "account_sales": false,
     "assets_information": {
-        "has_mobile": "NO",
+        "has_mobile": "YES",
         "has_telephone": "YES",
-        "has_laptop": "NO"
+        "has_laptop": "YES"
     },
     "Additional_information": {
         "start_date": null,
