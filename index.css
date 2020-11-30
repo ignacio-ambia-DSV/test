@@ -1,0 +1,13 @@
+.images{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(150px,1fr));
+    gap : 10px
+}
+
+.images div{
+    background-color: red;
+    width : 150px;
+    height: 150px;
+    background-size: 100% 100%;
+    border : 1px solid gray;
+}

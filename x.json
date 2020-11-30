@@ -85,7 +85,7 @@
         "id_software": "3",
         "val": "NO"
     }],
-    "cw_super_user": false,
+    "cw_super_user": true,
     "account_sales": false,
     "assets_information": {
         "has_mobile": "YES",
