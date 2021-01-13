@@ -4,11 +4,3 @@
     gap : 10px
 }
 
-.images div{
-    background-color: red;
-    width : 150px;
-    height: 150px;
-    background-size: 100% 100%;
-    border : 1px solid gray;
-}
-
